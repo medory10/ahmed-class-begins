@@ -11,8 +11,7 @@
 }
 
 .exempt{
-    background-color: aqua
-    ;
+    background-color: aqua;
 }
 
 .burgle{
@@ -26,17 +25,18 @@
 #serenade {
     background-color: rgb(23, 156, 112);
 }
+
 #speak {
     background-color: rgb(58, 31, 78);
 }
+
 #sweat {
     background-color: rgb(96, 96, 15);
 }
+
 #poison {
     background-color: beige;
 }
-
-
 
 h1{
     color: whitesmoke;
@@ -45,7 +45,6 @@ h1{
 h2{
     color: yellowgreen;
 } 
-
 
 .logo{
     width: 50%;
