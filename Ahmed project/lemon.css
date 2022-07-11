@@ -1,0 +1,54 @@
+.shine {
+    background-color: aquamarine;
+}
+
+.sin {
+    background-color: blueviolet;
+}
+
+.fine{
+    background-color: blanchedalmond;
+}
+
+.exempt{
+    background-color: aqua
+    ;
+}
+
+.burgle{
+    background-color: bisque;
+}
+
+.season{
+    background-color: brown;
+}
+
+#serenade {
+    background-color: rgb(23, 156, 112);
+}
+#speak {
+    background-color: rgb(58, 31, 78);
+}
+#sweat {
+    background-color: rgb(96, 96, 15);
+}
+#poison {
+    background-color: beige;
+}
+
+
+
+h1{
+    color: whitesmoke;
+}
+
+h2{
+    color: yellowgreen;
+} 
+
+
+.logo{
+    width: 50%;
+    height: auto;
+    border-radius: 30px;
+}

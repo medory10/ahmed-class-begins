@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+}
+
+body{
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.legal,
+.Freedom,
+.Code,
+.hustle {
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+}
+h1 {
+  color: rgb(133, 17, 48);
+}
+p {
+  color: rgb(23, 153, 45);
+}
+
+.Growth,
+.Action,
+.Flatscreen,
+.goble {
+  padding: 30px;
+}
+
+
+
